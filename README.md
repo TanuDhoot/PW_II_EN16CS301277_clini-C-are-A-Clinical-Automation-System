@@ -63,10 +63,7 @@ then view the subject line to the message and further replies in the "View Messa
 
 The Supplier User manages the drug orders raised by the salesperson and can deliver or reject them. They can 
 reply to the messages sent by the salesperson.
-.
-.
-.
-.
+
 Technologies Used:
 - C# .NET
 - ASP.NET MVC Framework
@@ -79,10 +76,7 @@ Database:
 IDE:
 - Visual Studio 2019
 - Microsoft SQL Server Management Studio
-.
-.
-.
-.
+
 Features:
 - All users can view drugs inventory and active physicians
 - Guest can request admin for registration 
